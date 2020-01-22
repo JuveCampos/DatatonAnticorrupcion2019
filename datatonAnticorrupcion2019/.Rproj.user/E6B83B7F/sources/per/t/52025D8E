@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575615057972.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2158725619",
+    "id" : "52025D8E",
+    "lastKnownWriteTime" : 1579670713,
+    "last_content_update" : 1579670713768,
+    "path" : "~/Desktop/Dataton Anticorrupcion II/datatonAnticorrupcion2019/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "78,25",
+        "scrollLine" : "74"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
