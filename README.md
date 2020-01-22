@@ -9,3 +9,7 @@ Integrantes:
 * Mitchell Valdés
 * Georgina Trujillo Barrios
 * Jorge Juvenal Campos Ferreira 
+
+**Enlace a la plataforma:**
+
+http://anticorrupcion19.jjsantoso.com
